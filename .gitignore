@@ -388,13 +388,3 @@ FodyWeavers.xsd
 # JetBrains Rider
 .idea/
 *.sln.iml
-
-# Stuff
-Directory.Build.props
-Directory.Build.targets
-MakeRelease.ps1
-.gitattributes
-.gitignore
-*.csproj
-*.sln
-/*.zip
